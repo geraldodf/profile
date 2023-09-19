@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.custom-hr {
+  height: 1px; 
+  background-color: white; 
+  border: none;
+}
